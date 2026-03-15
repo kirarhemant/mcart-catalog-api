@@ -14,5 +14,3 @@ spring:
       hibernate.jdbc.time_zone: UTC
       hibernate.format_sql: true
     show-sql: true
-
-management.endpoints.web.exposure.include: health,info
